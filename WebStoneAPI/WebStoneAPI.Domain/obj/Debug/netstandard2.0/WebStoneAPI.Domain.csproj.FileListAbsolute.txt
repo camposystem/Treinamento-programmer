@@ -1,0 +1,9 @@
+C:\git\WebStoneAPI\WebStoneAPI.Domain\bin\Debug\netstandard2.0\WebStoneAPI.Domain.deps.json
+C:\git\WebStoneAPI\WebStoneAPI.Domain\bin\Debug\netstandard2.0\WebStoneAPI.Domain.dll
+C:\git\WebStoneAPI\WebStoneAPI.Domain\bin\Debug\netstandard2.0\WebStoneAPI.Domain.pdb
+C:\git\WebStoneAPI\WebStoneAPI.Domain\obj\Debug\netstandard2.0\WebStoneAPI.Domain.csprojAssemblyReference.cache
+C:\git\WebStoneAPI\WebStoneAPI.Domain\obj\Debug\netstandard2.0\WebStoneAPI.Domain.csproj.CoreCompileInputs.cache
+C:\git\WebStoneAPI\WebStoneAPI.Domain\obj\Debug\netstandard2.0\WebStoneAPI.Domain.AssemblyInfoInputs.cache
+C:\git\WebStoneAPI\WebStoneAPI.Domain\obj\Debug\netstandard2.0\WebStoneAPI.Domain.AssemblyInfo.cs
+C:\git\WebStoneAPI\WebStoneAPI.Domain\obj\Debug\netstandard2.0\WebStoneAPI.Domain.dll
+C:\git\WebStoneAPI\WebStoneAPI.Domain\obj\Debug\netstandard2.0\WebStoneAPI.Domain.pdb

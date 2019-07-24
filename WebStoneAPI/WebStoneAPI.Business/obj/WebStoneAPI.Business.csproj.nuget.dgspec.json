@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\git\\WebStoneAPI\\WebStoneAPI.Business\\WebStoneAPI.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\git\\WebStoneAPI\\WebStoneAPI.Business\\WebStoneAPI.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\WebStoneAPI\\WebStoneAPI.Business\\WebStoneAPI.Business.csproj",
+        "projectName": "WebStoneAPI.Business",
+        "projectPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Business\\WebStoneAPI.Business.csproj",
+        "packagesPath": "C:\\Users\\campo\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\WebStoneAPI.Domain.csproj": {
+                "projectPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\WebStoneAPI.Domain.csproj"
+              },
+              "C:\\git\\WebStoneAPI\\WebStoneAPI.Repository\\WebStoneAPI.Repository.csproj": {
+                "projectPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Repository\\WebStoneAPI.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\WebStoneAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\WebStoneAPI.Domain.csproj",
+        "projectName": "WebStoneAPI.Domain",
+        "projectPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\WebStoneAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\campo\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\git\\WebStoneAPI\\WebStoneAPI.Repository\\WebStoneAPI.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\WebStoneAPI\\WebStoneAPI.Repository\\WebStoneAPI.Repository.csproj",
+        "projectName": "WebStoneAPI.Repository",
+        "projectPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Repository\\WebStoneAPI.Repository.csproj",
+        "packagesPath": "C:\\Users\\campo\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\WebStoneAPI.Domain.csproj": {
+                "projectPath": "C:\\git\\WebStoneAPI\\WebStoneAPI.Domain\\WebStoneAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

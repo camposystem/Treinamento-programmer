@@ -1,0 +1,14 @@
+C:\git\WebStoneAPI\WebStoneAPI\bin\Debug\netcoreapp2.2\WebStoneAPI.deps.json
+C:\git\WebStoneAPI\WebStoneAPI\bin\Debug\netcoreapp2.2\WebStoneAPI.runtimeconfig.json
+C:\git\WebStoneAPI\WebStoneAPI\bin\Debug\netcoreapp2.2\WebStoneAPI.runtimeconfig.dev.json
+C:\git\WebStoneAPI\WebStoneAPI\bin\Debug\netcoreapp2.2\WebStoneAPI.dll
+C:\git\WebStoneAPI\WebStoneAPI\bin\Debug\netcoreapp2.2\WebStoneAPI.pdb
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.csprojAssemblyReference.cache
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.csproj.CoreCompileInputs.cache
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.RazorAssemblyInfo.cache
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.RazorAssemblyInfo.cs
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.AssemblyInfoInputs.cache
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.AssemblyInfo.cs
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.RazorTargetAssemblyInfo.cache
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.dll
+C:\git\WebStoneAPI\WebStoneAPI\obj\Debug\netcoreapp2.2\WebStoneAPI.pdb

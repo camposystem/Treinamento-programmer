@@ -1,0 +1,14 @@
+C:\git\WebStoneAPI\WebStoneAPI.Business\bin\Debug\netstandard2.0\WebStoneAPI.Business.deps.json
+C:\git\WebStoneAPI\WebStoneAPI.Business\bin\Debug\netstandard2.0\WebStoneAPI.Business.dll
+C:\git\WebStoneAPI\WebStoneAPI.Business\bin\Debug\netstandard2.0\WebStoneAPI.Business.pdb
+C:\git\WebStoneAPI\WebStoneAPI.Business\obj\Debug\netstandard2.0\WebStoneAPI.Business.csprojAssemblyReference.cache
+C:\git\WebStoneAPI\WebStoneAPI.Business\obj\Debug\netstandard2.0\WebStoneAPI.Business.csproj.CoreCompileInputs.cache
+C:\git\WebStoneAPI\WebStoneAPI.Business\obj\Debug\netstandard2.0\WebStoneAPI.Business.AssemblyInfoInputs.cache
+C:\git\WebStoneAPI\WebStoneAPI.Business\obj\Debug\netstandard2.0\WebStoneAPI.Business.AssemblyInfo.cs
+C:\git\WebStoneAPI\WebStoneAPI.Business\obj\Debug\netstandard2.0\WebStoneAPI.Business.dll
+C:\git\WebStoneAPI\WebStoneAPI.Business\obj\Debug\netstandard2.0\WebStoneAPI.Business.pdb
+C:\git\WebStoneAPI\WebStoneAPI.Business\bin\Debug\netstandard2.0\WebStoneAPI.Domain.dll
+C:\git\WebStoneAPI\WebStoneAPI.Business\bin\Debug\netstandard2.0\WebStoneAPI.Repository.dll
+C:\git\WebStoneAPI\WebStoneAPI.Business\bin\Debug\netstandard2.0\WebStoneAPI.Domain.pdb
+C:\git\WebStoneAPI\WebStoneAPI.Business\bin\Debug\netstandard2.0\WebStoneAPI.Repository.pdb
+C:\git\WebStoneAPI\WebStoneAPI.Business\obj\Debug\netstandard2.0\WebStoneAPI.Business.csproj.CopyComplete
